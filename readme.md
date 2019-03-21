@@ -1,23 +1,4 @@
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
-<html>
-<head>
-	<meta http-equiv="content-type" content="text/html; charset=utf-8"/>
-	<title></title>
-	<meta name="generator" content="LibreOffice 6.0.7.3 (Linux)"/>
-	<meta name="created" content="2019-03-21T10:59:30.156122593"/>
-	<meta name="changed" content="2019-03-21T11:05:08.031184189"/>
-	<style type="text/css">
-		@page { margin: 0.79in }
-		p { margin-bottom: 0.1in; line-height: 115% }
-		h1 { margin-bottom: 0.08in }
-		h1.western { font-family: "Liberation Serif", serif }
-		h1.cjk { font-family: "Noto Sans CJK SC Regular"; font-size: 24pt }
-		h1.ctl { font-family: "Lohit Devanagari"; font-size: 24pt }
-		h2.cjk { font-family: "Noto Sans CJK SC Regular" }
-		h2.ctl { font-family: "Lohit Devanagari" }
-		td p { margin-bottom: 0in }
-	</style>
-</head>
+
 <body lang="en-US" dir="ltr">
 <h1 class="western" style="font-variant: normal; letter-spacing: normal; font-style: normal"><a name="m_-3273528688681616859gmail-myassigmenttoaivenoy"></a>
 My Assigment to Aiven oy</h1>
